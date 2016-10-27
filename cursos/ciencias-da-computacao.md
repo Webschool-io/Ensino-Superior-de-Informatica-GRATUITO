@@ -1,5 +1,11 @@
 # Curso: Ciências da Computação
 
+Faculdade: Universidade São Judas Tadeu
+
+Cidade: São Paulo
+
+Estado: SP
+
 - Banco de Dados
 - Legislação e Ética em TI
 - Lógica de Programação
