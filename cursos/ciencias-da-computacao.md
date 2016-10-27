@@ -40,3 +40,8 @@ Estado: SP
 - Empreendedorismo e Inovação
 - Gestão de Projetos de TI
 - Inteligência Artificial
+
+
+## Outras ementas
+
+- UFPA: [https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148](https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148)
