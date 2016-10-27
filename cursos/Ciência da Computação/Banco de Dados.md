@@ -11,16 +11,16 @@ Aprender sobre o processo de modelagem de dados (conceitual, lógico e físico).
 
 ###Programa
 
-INTRODUÇÃO AOS SISTEMAS DE GERÊNCIA DE BANCO DE DADOS
+- INTRODUÇÃO AOS SISTEMAS DE GERÊNCIA DE BANCO DE DADOS
 - Conceito e Objetivos
 - Requisitos de Banco de Dados
 - Comparativo de SGBD vs. Sistema de Arquivos
-PROJETO DE BANCO DE DADOS
+- PROJETO DE BANCO DE DADOS
 - Definição
 - Modelo Conceitual
 - Modelo Lógico
 - Modelo Físico
-MODELO CONCEITUAL - Modelo de Entidades e Relacionamentos (MER)
+- MODELO CONCEITUAL - Modelo de Entidades e Relacionamentos (MER)
 - Relacionamento, Atributos e Entidades
 - Chaves primárias e identificadores
 - Cardinalidade dos relacionamentos
@@ -28,25 +28,25 @@ MODELO CONCEITUAL - Modelo de Entidades e Relacionamentos (MER)
 - Autorrelacionamento
 - Agregações
 - Especializações e Generalizações
-PROJETO LÓGICO O Modelo Relacional
+- PROJETO LÓGICO O Modelo Relacional
 - Conceitos básicos
 - Domínio de dados
 - Chaves primária e estrangeira
 - Tabelas associativas (relacionamento N:M)
 - Técnicas de mapeamento MER MR
-NORMALIZAÇÃO
+- NORMALIZAÇÃO
 - Simplicidade dos Dados e Dependência Funcional
 - Estruturas Complexas e Anomalias
 - Formas Normais
 - Desnormalização
-LINGUAGEM SQL
+- LINGUAGEM SQL
 - Linguagem DDL e seus principais comandos
 - Linguagem DML e seus principais comandos
-ÁLGEBRA RELACIONAL
+- ÁLGEBRA RELACIONAL
 - Conceitos
 - Principais operações algébricas
-MAPEAMENTO OBJETO-RELACIONAL
+- MAPEAMENTO OBJETO-RELACIONAL
 - Derivação de Modelos
 - Ferramentas e técnicas de automação da derivação
-GERENCIAMENTO DE TRANSAÇÃO
+- GERENCIAMENTO DE TRANSAÇÃO
 - Aplicação de Gerenciamento de Transações

@@ -11,7 +11,7 @@ A partir das funções reais de uma variável real, a disciplina Cálculo Difere
 
 ###Programa
 
-FUNÇÃO
+- FUNÇÃO
 - Conjuntos numéricos.
 - Desigualdades.
 - Valor absoluto.
@@ -24,16 +24,16 @@ FUNÇÃO
 - Função Inversa.
 - Função Exponencial.
 - Função Logarítmica
-LIMITE
+- LIMITE
 - Noção intuitiva de limite
 - Limites laterais.
 - Definição de limite.
 - Propriedades sobre limites.
 - Limites da forma 0/0.
 - Limites no infinito.
-CONTINUIDADE
+- CONTINUIDADE
 - Continuidade de uma função no ponto.
-DERIVADA
+- DERIVADA
 - Coeficiente angular da reta tangente.
 - Derivada de uma função num ponto, notação e interpretação geométrica.
 - Função derivada, notações.
@@ -48,7 +48,7 @@ DERIVADA
 - Máximo e mínimo.
 - Estudo do comportamento de uma função: intervalos de crescimento/decrescimento (estudo do sinal da 1ª derivada); pontos críticos (máximo/mínimo); - concavidade (estudo do sinal da 2ª derivada); ponto de inflexão.
 - Esboço do gráfico de uma função.
-INTEGRAL
+- INTEGRAL
 - Integral Indefinida
 - Propriedades
 - Tabela de integrais indefinidas imediatas.
@@ -58,7 +58,7 @@ INTEGRAL
 - Técnicas de Integração.
 - Integral por substituição (mudança de variável).
 - Integral por partes.
-EQUAÇÃO DIFERENCIAL
+- EQUAÇÃO DIFERENCIAL
 - Definição de ordem e grau de uma Equação Diferencial Ordinária.
 - Equação Diferencial Ordinária de Primeira Ordem de Variáveis Separáveis.
 - Solução de Equação Diferencial Ordinária de Primeira Ordem de Variáveis Separáveis.
