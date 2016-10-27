@@ -1,6 +1,10 @@
 # Curso: Ciências da Computação
 
+Curso: Bacharel em Ciência da Computação
+
 Faculdade: Universidade São Judas Tadeu
+
+Semestres: 8
 
 Cidade: São Paulo
 
