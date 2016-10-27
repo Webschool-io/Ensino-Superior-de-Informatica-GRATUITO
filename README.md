@@ -15,6 +15,9 @@ O problema a ser resolvido nessa competência deverá incluir os tópicos básic
 
 ### Exemplo de uma competência básica de matemática
 
+## Ementas
+
+- [Ciências da Computação](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO/blob/master/cursos/ciencias-da-computacao.md)
 
 
 ## Matemáticas
