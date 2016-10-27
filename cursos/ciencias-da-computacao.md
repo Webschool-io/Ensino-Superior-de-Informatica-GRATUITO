@@ -41,6 +41,7 @@ Estado: SP
 - Gestão de Projetos de TI
 - Inteligência Artificial
 
+Enviado por: @leoribeirowebmaster
 
 ## Outras ementas
 
