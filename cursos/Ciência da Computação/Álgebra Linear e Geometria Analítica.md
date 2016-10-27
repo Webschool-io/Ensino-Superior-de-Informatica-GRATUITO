@@ -10,22 +10,22 @@ Dotar o aluno de um embasamento matemático para as disciplinas específicas da 
 Habilitar o aluno a trabalhar com a estrutura algébrica de espaços vetoriais. - Fornecer ao aluno condições de trabalhar com os elementos de geometria analítica e suas aplicações.
 
 ###Programa
--Espaços vetoriais
--Conceito de espaço vetorial
--Exemplos dos principais espaços vetoriais
--Subespaços vetoriais
--Elementos de geometria analítica
--Segmentos orientados
--Vetores nos espaços bi e tridimensionais
--Álgebra vetorial elementar
--A reta
--O plano
--Dependência Linear em um espaço vetorial
--Vetores linearmente dependentes
--Vetores linearmente independes
--Base e dimensão de espaços vetoriais e subespaços
--Transformações lineares
--Núcleo e Imagem
--Matriz de transformação linear
--Transformações do plano
--Aplicações das transformações do plano
+- Espaços vetoriais
+- Conceito de espaço vetorial
+- Exemplos dos principais espaços vetoriais
+- Subespaços vetoriais
+- Elementos de geometria analítica
+- Segmentos orientados
+- Vetores nos espaços bi e tridimensionais
+- Álgebra vetorial elementar
+- A reta
+- O plano
+- Dependência Linear em um espaço vetorial
+- Vetores linearmente dependentes
+- Vetores linearmente independes
+- Base e dimensão de espaços vetoriais e subespaços
+- Transformações lineares
+- Núcleo e Imagem
+- Matriz de transformação linear
+- Transformações do plano
+- Aplicações das transformações do plano
