@@ -46,3 +46,4 @@ Enviado por: @leoribeirowebmaster
 ## Outras ementas
 
 - UFPA: [https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148](https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148)
+- UFPI: [https://sigaa.ufpi.br/sigaa/link/public/curso/curriculo/76516](https://sigaa.ufpi.br/sigaa/link/public/curso/curriculo/76516)
