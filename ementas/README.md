@@ -2,7 +2,7 @@
 
 ###Análise e Desenvolvimento de Sistemas
 - Faculdade: Faculdade de Tecnologia do Nordeste - Fortaleza - CE
-  .. [Conteúdo]()
+.. [Conteúdo]()
 
 ###Ciência Da Computação
 - Faculdade: Anhanguera Educacional - Limeira - SP
