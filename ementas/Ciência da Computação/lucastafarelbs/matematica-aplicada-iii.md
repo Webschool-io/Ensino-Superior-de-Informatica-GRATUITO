@@ -1,4 +1,4 @@
-[HOME](https://github.COM/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO) 
+[HOME](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO) 
 ##Disciplina: Matemática Aplicada III
 
 ###Semana | Cronograma
