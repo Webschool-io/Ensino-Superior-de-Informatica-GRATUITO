@@ -2,6 +2,7 @@
 ##Disciplina: Programação Concorrente
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina. Ementa. Sistema de avaliação. Revisão sobre Sistemas Operacionais.
 2	| Conceitos básicos de sistemas operacionais e multiprogramação.
 3	| Processos concorrentes.
@@ -23,6 +24,7 @@
 19	| Revisão
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Apresentação dos conceitos básicos de sistemas operacionais e multiprogramação. Estudo de processos concorrentes. Sincronização, deadlock Multithreading, controle e sincronização. Estudo de tratamento de sinais, mecanismos de IPC (locks, pipes e named pipes), semáforos e memória compartilhada.
 

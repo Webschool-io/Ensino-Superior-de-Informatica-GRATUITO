@@ -2,6 +2,7 @@
 ##Disciplina: Organização de Computadores
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e metodologia de trabalho. Conceitos básicos.
 2	| Evolução histórica dos computadores.
 3	| Componentes de um sistema de computação.
@@ -23,6 +24,7 @@
 19	| Vista de Prova. Revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Conceitos Básicos; Evolução Histórica dos Computadores. Componentes de um sistema de computação. Conversão de bases e aritmética computacional. Subsistemas de memória. Unidade central de processamento. Representação de dados. Representação de instruções. Execução de programas. Entrada e saída (E/S).
 

@@ -2,6 +2,7 @@
 ##Disciplina: Matemática Aplicada IV
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Conceitos Básicos de Teoria de Conjuntos.
 2	| Conceitos Básicos de Teoria de Conjuntos.
 3	| Álgebra de Conjuntos.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Conceitos básicos de teoria de conjuntos. Álgebra de conjuntos. Cardinalidade de conjuntos. Relações. Funções parciais e totais. Álgebras e homomorfismo.
 

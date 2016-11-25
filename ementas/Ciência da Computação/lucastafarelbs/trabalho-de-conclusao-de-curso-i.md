@@ -2,6 +2,7 @@
 ##Disciplina: Trabalho de Conclusão de Curso I
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho.
 2	| Orientações sobre o Trabalho Científico.
 3	| Definição de Grupos e Escolha de Áreas de Pesquisa.
@@ -20,6 +21,7 @@
 16	| Avaliação do TCC I.
 17	| Devolução do TCC I Avaliado.
 
+```
 ###Ementa
 Desenvolvimento de um projeto de pesquisa na área de Ciência da Computação, sendo o discente orientado por docente da Instituição: a escolha do tema, elaboração de contra-projeto e início de sua execução.
 

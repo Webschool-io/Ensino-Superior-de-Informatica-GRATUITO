@@ -2,6 +2,7 @@
 ##Disciplina: Computação Gráfica
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Apresentação do Plano de Ensino e Aprendizagem. Agendamento de avaliações. Introdução à Computação Gráfica. Conceituação e principais aplicações.
 2	| Representação de Imagens. Primitivas gráficas. Imagem vetorial e imagem matricial. Exemplos.
 3	| Abordagem do sistema visual humano. Sistemas de Cores. Modelo RGB, CMYK e Transformação entre Espaços de cor.
@@ -20,6 +21,7 @@
 16	| Modelagem e Animação Digital. Apresentação das principais técnicas e ferramentas. Prática em laboratório.
 17	| Modelagem e Animação Digital. Apresentação das principais técnicas e ferramentas. Prática em laboratório.
 
+```
 ###Ementa
 Introdução à computação gráfica. Apresentação de dispositivos gráficos, fundamentos de cor e de imagem digital. Estudo das transformações geométricas e sistemas de coordenadas. Estudo dos objetos gráficos planares e tridimensionais. Visualização e transformações de visualização. Modelos de iluminação. Introdução aos Filtros Digitais. Apresentação de noções em Percepção Visual Humana. Estudo da amostragem e quantização de Imagens. Transformadas de Imagem. Introdução a Filtragem e Restauração. Análise de Imagens e Noções de Visão Computacional.
 

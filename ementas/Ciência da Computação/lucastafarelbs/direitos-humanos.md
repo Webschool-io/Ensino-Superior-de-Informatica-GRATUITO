@@ -2,6 +2,7 @@
 ##Disciplina: Direitos Humanos - AVA
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem
 2	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem
 3	| O Estado Constitucional de Direito e a Segurança dos Direitos do Homem
@@ -20,6 +21,7 @@
 16	| A Proteção Internacional dos Direitos Humanos
 17	| A Proteção Internacional dos Direitos Humanos
 
+```
 ###Ementa
 Estado Constitucional; Fontes e Antecedentes dos Direitos Humanos; Declaração dos Direitos Humanos; Evolução Histórica dos Direitos Econômicos e Sociais; Direitos Sociais na Constituição de Weimar; Proteções do indivíduo contra o Estado.
 

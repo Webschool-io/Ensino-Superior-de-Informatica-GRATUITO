@@ -2,6 +2,7 @@
 ##Disciplina: Classificação e Pesquisa
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Classificação e Pesquisa.
 2	| Pesquisa de Dados: método sequencial. Conceito, exemplos e exercícios.
 3	| Pesquisa Binária. Conceito, funcionamento, exemplos e exercícios
@@ -23,6 +24,7 @@
 19	| Revisão
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Métodos de ordenação: Seleção, troca, distribuição, inserção, intercalação e cálculo de endereços. Pesquisa de dados: Seqüencial, binária,hashing, árvores de pesquisa, árvores binárias de pesquisa, árvores AVL, árvores Patrícia, B-Trees.
 

@@ -2,6 +2,7 @@
 ##Disciplina: Circuitos Digitais
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Revisão de Aritmética Binária.
 2	| Propriedade da Álgebra de Boole. Elementos Lógicos Básicos.
 3	| Minimização e Implementação de Funções.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Propriedade da álgebra de Boole. Elementos Lógicos Básicos; minimização e implementação de funções. Flip-Flops. Dispositivos básicos de circuitos combinacionais: Multiplexadores, Demultiplexadores, decodificadores, codificadores, somadores, subtratores, comparadores. Conceitos de controle e temporização. Análise e Síntese de circuitos seqüenciais. Dispositivos básicos de circuitos seqüenciais: registradores de deslocamento, contadores, dispositivos lógicos programáveis PLD. Memórias ROM, PROM, EPROM, EEPROM, RAM).
 

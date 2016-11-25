@@ -2,6 +2,7 @@
 ##Disciplina: Direito e Legislação - AVA
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão digital e apresentação da metodologia de aprendizagem
 2	| Capacitação, Inclusão digital e apresentação da metodologia de aprendizagem
 3	| Introdução ao Estudo do Direito
@@ -23,6 +24,7 @@
 19	| Retorno da avaliação
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Introdução ao Estudo do Direito. Teoria Geral do Estado. Direito Constitucional. Direito Tributário. Direito Civil. Direito de Família e das Sucessões. Direito do Consumidor. Direito Empresarial. Direito do Trabalho.
 

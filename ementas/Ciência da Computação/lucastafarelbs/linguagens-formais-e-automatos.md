@@ -2,6 +2,7 @@
 ##Disciplina: Linguagens Formais e Autômatos
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina. Introdução e Conceitos Básicos.
 2	| Introdução e Conceitos Básicos.
 3	| Hierarquia de Classes de Linguagens.
@@ -23,6 +24,7 @@
 19	| Exercícios.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Alfabeto, palavra e linguagem. Linguagens Regulares. Linguagens Livre de Contexto. Linguagens Sensíveis ao Contexto. Linguagens Recursivamente Enumeráveis. Hierarquia de Classes de Linguagem-
 

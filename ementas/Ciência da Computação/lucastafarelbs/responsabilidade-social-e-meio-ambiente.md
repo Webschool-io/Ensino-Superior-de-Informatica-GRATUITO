@@ -2,6 +2,7 @@
 ##Disciplina: Responsabilidade Social e Meio Ambiente - AVA
 
 ###Semana | Cronograma
+```
 1	| Capacitação,Inclusão digital e apresentação da metodologia de aprendizagem
 2	| Capacitação, Inclusão digital e apresentação da metodologia de aprendizagem
 3	| Panorama mundial e nacional - ecossistemas
@@ -23,6 +24,7 @@
 19	| Revisão de conteúdo
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Panorama mundial da questão ambiental. Fundamentos da sustentabilidade. Preparando-se para a nova economia. Sustentabilidade no mundo corporativo.
 

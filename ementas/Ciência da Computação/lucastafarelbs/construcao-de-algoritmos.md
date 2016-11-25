@@ -2,6 +2,7 @@
 ##Disciplina: Construção de Algoritmos
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e do Plano de Ensino e Aprendizagem. Agendamento das avaliações. Conceito de algoritmo e introdução a comandos de pseudo-linguagem. Exemplos.
 2	| Apresentação de operadores aritméticos, lógicos e relacionais. Atribuição. Criação de expressões aritméticas, lógicas e relacionais. Tabela verdade. Exemplos e exercícios.
 3	| Dados e variáveis. Tipos de dados. Expressões aritméticas e lógicas e seus operadores. Apresentação de representação gráfica de algoritmos.
@@ -23,6 +24,7 @@
 19	| Exercícios e Revisão para prova substitutiva.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Introdução a algoritmo e aos conceitos que fazem parte de seu contexto, tais como dado, variável, comandos e programa. Análise de um problema e princípios de resolução. Apresentação de formas de representação de algoritmo: gráfica e em pseudo-linguagem. Estudo das construções básicas: atribuição, leitura, escrita, controle: sequência, seleção e iteração. Estudo de vetores e matrizes.
 

@@ -2,6 +2,7 @@
 ##Disciplina: Eletricidade e Eletrônica
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Conceitos basicos de Eletricidade e Eletrônica.
 2	| Eletrização e Cargas Elétricas.
 3	| Quantização de Cargas.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Eletrização e cargas elétricas. Quantização de cargas. Campo, potencial e diferença de potencial. Corrente elétrica. Componentes elétricos básicos: capacitor, resistor e indutor. Carga e descarga de um capacitor - circuito RC. Dispositivos semicondutores: diodos e transistores.
 

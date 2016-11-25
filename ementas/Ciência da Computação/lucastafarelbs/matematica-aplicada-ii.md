@@ -2,6 +2,7 @@
 ##Disciplina: Matemática Aplicada II
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Vetores.
 2	| Operação com Vetores.
 3	| Operação com Vetores.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Vetores. Operações com Vetores. Sistemas de Coordenadas. Estudo da Reta e de Curvas Planas. Estudo do Plano. Lugares Geométricos: reta, curvas planas; curvas e superfícies no espaço. Sistemas de Equações lineares. Matrizes. Transformações Lineares. Autovalores e Auto-vetores. Espaços Vetoriais.
 

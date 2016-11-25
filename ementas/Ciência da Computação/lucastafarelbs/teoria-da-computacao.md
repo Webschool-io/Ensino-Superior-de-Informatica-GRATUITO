@@ -2,6 +2,7 @@
 ##Disciplina: Teoria da Computação
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e do Professor. Introdução
 2	| Programas, Máquinas e Computações
 3	| Programas, Máquinas e Computações
@@ -20,6 +21,7 @@
 16	| Computabilidade
 17	| Problemas não decidíveis e semi-decidíveis.
 
+```
 ###Ementa
 Conceitos Básicos da Teoria da Computação. Programas, máquinas e computações. Máquinas Universais. Funções recursivas. Computabilidade. Noção intuitiva. Modelos computacionais. Equivalência entre modelos e tese de Church. Funções não computáveis e o problema da parada. Enumerabilidade, decidibilidade. Problemas não decidíveis e semi-decidíveis.
 

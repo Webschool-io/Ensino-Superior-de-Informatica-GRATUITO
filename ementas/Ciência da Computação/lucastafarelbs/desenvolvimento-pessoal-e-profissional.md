@@ -2,6 +2,7 @@
 ##Disciplina: 
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem
 2	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem
 3	| O mundo como você vê
@@ -24,6 +25,7 @@
 20	| Prova Substitutiva
 
 
+```
 ###Ementa
 Estudo das questões que envolvem a inserção do sujeito no mundo do trabalho. Estabelecimento de projeto de vida. Competência social. Competência interpessoal. Características do processo seletivo. Independência financeira. Miscigenação étnico-racial, diversidade cultural e sua influência na construção social do Brasil. História e cultura afro-brasileira e indígena. Desigualdades que atingem historicamente determinados grupos sociais, em especial: afrodescendentes e indígenas. As definições étnico-raciais e as políticas de ação afirmativa.
 

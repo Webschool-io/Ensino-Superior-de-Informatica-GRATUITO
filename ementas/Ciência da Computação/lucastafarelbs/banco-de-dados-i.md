@@ -2,6 +2,7 @@
 ##Disciplina: Banco de Dados I
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina. Conceitos Fundamentais de Banco de Dados.
 2	| Conceitos Fundamentais de Banco de Dados. Características típicas de um Sistema de Gerenciamento de Banco de Dados.
 3	| Arquitetura de SGBD. Introdução ao Modelo Entidade-Relacionamento (MER).
@@ -23,6 +24,7 @@
 19	| Exercícios de revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Abordagem dos conceitos básicos sobre Banco de Dados. Estudo da independência de dados, modelo de dados conceitual e modelo de implementação. Abordagens hierárquica, de rede e relacional. Abordagem Relacional: modelo de dados e restrições de integridade, álgebra e cálculo relacional, SQL, normalização e dependências funcionais. Estudo da normalização em banco de dados.
 

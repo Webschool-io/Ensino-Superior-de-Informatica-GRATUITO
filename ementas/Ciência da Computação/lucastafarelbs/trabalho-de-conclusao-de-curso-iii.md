@@ -2,6 +2,7 @@
 ##Disciplina: Trabalho de Conclusão de Curso III
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho.
 2	| Orientações sobre o TCC III.
 3	| Análise do TCC II.
@@ -20,6 +21,7 @@
 16	| Orientações Finais.
 17	| Orientações Finais.
 
+```
 ###Ementa
 Elaboração da Introdução e Conclusão do TCC. REvisão do conteúdo da Pesquisa do TCC. Elaboração do texto final do TCC. Revisão geral do TCC.
 

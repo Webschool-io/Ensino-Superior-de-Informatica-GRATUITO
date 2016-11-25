@@ -2,6 +2,7 @@
 ##Disciplina: Probabilidade e Estatística
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Probabilidade e Estatística.
 2	| Análise combinatória: Arranjo, Permutação, Combinação Simples e com Repetição.
 3	| Análise combinatória: Arranjo, Permutação, Combinação Simples e com Repetição.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Distribuição de freqüências, gráficos, medidas de desvio, coeficiente de correlação. Análise Combinatória: Arranjo; Permutação; Combinação Simples e com Repetição. Probabilidade Conjunta e Probabilidade Condicional. Variáveis Aleatórias contínuas e discretas. Medidas de posição e dispersão. Distribuição de Probabilidade. Amostras e Distribuições Amostrais.
 

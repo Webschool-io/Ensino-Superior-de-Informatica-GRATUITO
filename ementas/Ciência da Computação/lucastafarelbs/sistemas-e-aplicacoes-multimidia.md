@@ -2,6 +2,7 @@
 ##Disciplina: Sistemas e Aplicações Multimídia
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Sistemas e Aplicações Multimídia.
 2	| Evolução da Comunicação entre Homem e Máquina.
 3	| Plataformas: Ambientes, Plataformas e Configurações.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Estudo dos fundamentos da tecnologia multimídia. Caracterização, representação, codificação e compreensão de mídia. Estudo de ambientes, dados e objetos multimídia. Abordagem de imagens em terceira dimensão. Estudo da representação digital de imagens, dos padrões e das aplicações multimídia. Abordagem do áudio digital. Introdução a Realidade Virtual.
 

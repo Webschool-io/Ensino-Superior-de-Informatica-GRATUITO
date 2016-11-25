@@ -2,6 +2,7 @@
 ##Disciplina: Programação Orientada a Objetos I
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina, do Plano de Estudo e Aprendizagem e da metodologia de trabalho. Agendamento de avaliações. Introdução ao paradigma de orientação a objeto.
 2	| Introdução a classes, objetos e métodos. Estruturação e funcionamento. Exemplos e exercícios.
 3	| Introdução a Linguagem Java. Estrutura de um programa. Apresentação dos tipos primitivos de dados. Aula de apresentação do ambiente integrado de desenvolvimento Java em laboratório.
@@ -23,6 +24,7 @@
 19	| Revisão
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Apresentação da metodologia de programação Orientada a Objetos. Estudo de classes, atributos, métodos, objetos, encapsulamento e herança. Concepção e implementação de programas orientados a objetos.
 

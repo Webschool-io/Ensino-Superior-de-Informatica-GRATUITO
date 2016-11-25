@@ -1,7 +1,8 @@
-[HOME](https://github.com/lucastafarelbs/Ensino-Superior-de-Informatica-GRATUITO) 
+[HOME](https://github.com/lucastafarelbs/Ensino-Superior-de-Informatica-GRATUITO)
 ##Disciplina: Arquitetura de Computadores
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 2	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 3	| Estrutura e Funcionamento da CPU: introdução
@@ -20,6 +21,7 @@
 16	| Computadores: análise de desempenho. Arquitetura de computadores com paralelismo. Computadores dedicados e embarcados.
 17	| Computadores: análise de desempenho. Arquitetura de computadores com paralelismo. Computadores dedicados e embarcados.
 
+```
 ###Ementa
 Arquiteturas RISC e CISC. Pipeline. Paralelismo de Baixa Granularidade. Processadores Superescalares e Superpipeline. Multiprocessadores. Multicomputadores. Arquiteturas Paralelas e não Convencionais. Microprocessadores e Computadores Pessoais. Organização de Memória. Sistemas de Entrada e Saída, Sistemas de vídeo, Som e Outros.
 

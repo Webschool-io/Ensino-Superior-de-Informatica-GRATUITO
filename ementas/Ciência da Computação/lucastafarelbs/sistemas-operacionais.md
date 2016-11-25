@@ -2,6 +2,7 @@
 ##Disciplina: Sistemas Operacionais
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e do Plano de Ensino e Aprendizagem. Agendamento das avaliações. Introdução a Sistemas Operacionais.
 2	| Visão geral de sistemas operacionais. Evolução e tipos de Sistemas Operacionais.
 3	| Hardware e software no contexto dos Sistemas Operacionais. Introdução a concorrência.
@@ -24,6 +25,7 @@
 20	| Prova Substitutiva
 
 
+```
 ###Ementa
 Introdução aos conceitos básicos de sistemas operacionais: processos, organizações de sistemas operacionais e chamadas de sistema. Estudo do gerenciamento do processador: estados do processo e escalonamento. Caracterização de entrada e saída: dispositivos controladores, softwares de E/S, interrupções, dependência e independência. Abordagem de gerência de memória: partições fixas e variáveis, paginação, segmentação, memória virtual.
 

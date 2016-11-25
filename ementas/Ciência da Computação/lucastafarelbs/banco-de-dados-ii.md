@@ -2,6 +2,7 @@
 ##Disciplina: Banco de Dados II
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Revisão de Banco de Dados.
 2	| Linguagem SQL DML: Comando Insert.
 3	| Linguagem SQL DML: Comandos Update, Delete e Where.
@@ -20,6 +21,7 @@
 16	| Introdução à Sistema para apoio a decisão Data Warehouse (DW).
 17	| Banco de Dados distribuídos e Revisão de conteúdo.
 
+```
 ###Ementa
 Introdução ao Gerenciamento de transações. Abordagem da otimização em consultas a base de dados. Estudo da administração de Banco de Dados. Criação de Projeto de Banco de Dados utilizando modelo Relacional. Estudo da Linguagem SQL Avançada através de: Views; Stored Procedures, Regras; Funções e Triggers. Introdução a Banco de Dados Distribuídos e Banco de Dados para apoio a Decisão.
 

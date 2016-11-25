@@ -2,6 +2,7 @@
 ##Disciplina: Desenvolvimento Econômico - AVA
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 2	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 3	| Desenvolvimento Econômico %u2013 Conceitos Principais e Realidade Atual
@@ -23,6 +24,7 @@
 19	| Retorno da Avaliação
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Conceitos de desenvolvimento e subdesenvolvimento; as medidas do Desenvolvimento Econômico; O modelo de desenvolvimento econômico do Pós Guerra. A globalização econômica e a crise econômica global; O surgimento dos BRICS e o desenvolvimento econômico da: China, Índia, Russia, Brasile Africa do Sul; Organizações multilaterais de desenvolvimento econômico.
 

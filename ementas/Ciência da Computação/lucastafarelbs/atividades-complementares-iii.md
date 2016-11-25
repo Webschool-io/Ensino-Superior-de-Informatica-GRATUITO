@@ -2,6 +2,7 @@
 ##Disciplina: Atividades Complementares III
 
 ###Semana | Cronograma
+```
 1	| Apresentação das Diretrizes das Atividades.
 2	| Participação em Atividades Científicas, Sociais ou Culturais.
 3	| Participação em Atividades Científicas, Sociais ou Culturais.
@@ -23,6 +24,7 @@
 19	| Participação em Atividades Científicas, Sociais ou Culturais.
 20	| Participação em Atividades Científicas, Sociais ou Culturais.
 
+```
 ###Ementa
 Participação em atividades formacionais de incentivo à busca do auto-aprendizado, com responsabilidade pessoal, social e intelectual. Exercício de atividades de enriquecimento científico, profissional e cultural.
 

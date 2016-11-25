@@ -2,6 +2,7 @@
 ##Disciplina: Lógica Matemática
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Lógica.
 2	| Álgebra de Conjuntos.
 3	| Lógica Proposional - Linguagem; Conectivos e Valores Lógicos; Tautologias.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 A Matemática e o Método Axiomático Dedutivo. Motivação para o estudo da Lógica. Lógica Proposicional (Linguagem, semântica, sistemas Dedutivos). Lógica de Predicados (Linguagem, semântica, sistemas Dedutivos). Sistemas de Tableaux. Formalização de problemas. Técnicas de demonstração. Indução Finita. Álgebra de Boole.
 

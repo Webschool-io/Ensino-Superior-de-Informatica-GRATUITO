@@ -2,6 +2,7 @@
 ##Disciplina: Paradigmas de Linguagem de Programação
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e da metodologia de trabalho. Apresentação do Plano de Ensino e Aprendizagem. Introdução à Linguagens de Programação.
 2	| Introdução aos principais critérios de avaliação das linguagens de programação: legibilidade.
 3	| Critérios de avaliação das linguagens de programação: capacidade de escrita.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Abordagem dos fundamentos das linguagens de programação. Estudo dos meios de avaliação e das implementações das linguagens. Estudo de linguagens em espécie e de sua evolução. Estudo dos tipos de dados, estruturas de construção de um programa e introdução aos subprogramas.
 

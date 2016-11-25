@@ -2,6 +2,7 @@
 ##Disciplina: Sistemas Microprogramados
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina. Introdução à Linguagem de Máquina.
 2	| Estrutura interna PIC 16F628A
 3	| Memória de programa e memória de dados. Conceituações e utilizações.
@@ -23,6 +24,7 @@
 19	| Exercícios de revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Abordagem geral de microprocessadores, suas características e conjunto de instruções. Conceituação de memória de dados, memória de programas, registradores e interrupções. Abordagem de microcontroladores. Estudo e prática de linguagem de máquina, incluindo microcódigo e microprogramação. Prática de linguagem de montagem (Assembly), com instruções de movimentação de dados, lógico-aritméticas e implementação de repetições. Prática de sub-rotinas e instruções e subrotinas de Entrada e Saída. Execução de rotinas de tratamento de Interrupções.
 

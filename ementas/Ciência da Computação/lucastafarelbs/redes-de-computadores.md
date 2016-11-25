@@ -2,6 +2,7 @@
 ##Disciplina: Redes de Computadores
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina. Conceitos básicos de redes de computadores.
 2	| Conceitos básicos de redes de computadores e a Internet.
 3	| Modelos de referência e exemplos de redes de computadores.
@@ -23,6 +24,7 @@
 19	| Exercícios de revisão.
 20	| Prova Substitutiva.
 
+```
 ###Ementa
 Conceitos básicos de Rede de Computadores e da Internet. Arquitetura em camadas e camadas de protocolos. Exemplo de redes de computadores. A camada física: componentes, cabeamento metálico, óptico, comunicação wireless. Sistemas padronizados de telecomunicação e comunicação de dados. A camada de enlace e a subcamada de acesso ao meio, técnicas de detecção de erros. A camada de rede: roteamento e endereçamento IP. A camada de transporte (protocolos TCP e UDP). A camada de aplicação: protocolos HTTP, SMTP, DNS, FTP. Segurança em redes.
 

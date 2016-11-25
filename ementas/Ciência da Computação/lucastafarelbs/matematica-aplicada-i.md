@@ -2,6 +2,7 @@
 ##Disciplina: Matemática Aplicada I - AVA
 
 ###Semana | Cronograma
+```
 1	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 2	| Capacitação, Inclusão Digital e Apresentação da Metodologia de Aprendizagem.
 3	| Conceito de funções e sua capacidade de representar o mundo que nos cerca
@@ -23,6 +24,7 @@
 19	| Retorno da Avaliação.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Estudo de funções e suas aplicações. Funções do 1º grau. Funções do 2º grau. Função exponencial. Representação gráfica de funções. Resgate de conhecimentos prévios necessários para o desenvolvimento da disciplina (Operações nos diversos conjuntos numéricos, Expressões numéricas, Polinômios, Equações do 1º e 2º graus. Trigonometria. Ciclo Trigonométrico).
 

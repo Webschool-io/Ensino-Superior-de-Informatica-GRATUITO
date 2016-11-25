@@ -2,6 +2,7 @@
 ##Disciplina: Engenharia de Software e Análise de Projeto de Sistemas
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina. Apresentação do Plano de Ensino e Aprendizagem. Agendamento de avaliações. Apresentação de conceitos gerais de Engenharia de Software.
 2	| Aplicações de software, princípios e paradigmas de Engenharia de Software. Abordagem da metodologia Espiral.
 3	| Abordagem da metodologia Extreme Programming (XP): conceito, utilização, formação da equipe e valores.
@@ -23,6 +24,7 @@
 19	| Exercícios de Revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Apresentação dos princípios de Engenharia de Software. Modelos de sistemas e ciclo de vida do software. Fases de desenvolvimento. Engenharia de requisitos. Projeto de software orientado a objetos.
 

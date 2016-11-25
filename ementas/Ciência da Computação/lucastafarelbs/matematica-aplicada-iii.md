@@ -2,6 +2,7 @@
 ##Disciplina: Matemática Aplicada III
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Limite.
 2	| Variação de função. Derivada.
 3	| Variação de função. Derivada.
@@ -20,6 +21,7 @@
 16	| Séries de Potências.
 17	| Séries de Fourier.
 
+```
 ###Ementa
 Derivadas: conceitos e regras. Cálculo Integral: Integral definida; Interpretações da integral definida (teorema fundamental do cálculo); Primitivas; Integração por substituição; Integração por partes; Tabelas de integrais; Identidades algébricas e substituições trigonométricas; Aproximando integrais definidas: regra do ponto médio; regra do trapézio; erros aproximação; regra de Simpson; Integrais impróprias; Áreas e volumes. Seqüências e Séries Numéricas e de Potências: Séries geométricas; Convergência de seqüências; Convergência de séries; Testes de convergência; Séries de potência.
 

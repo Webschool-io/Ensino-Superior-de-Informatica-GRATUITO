@@ -2,6 +2,7 @@
 ##Disciplina: Compiladores
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Apresentação do Plano de Estudo. Revisão sobre gramática livre de contexto.
 2	| Introdução à Compiladores e ao processo de Compilação. Fases da Compilação.
 3	| Analisador Léxico. Estados da análise. Exemplos e exercício. Tokens
@@ -20,6 +21,7 @@
 16	| Atividade em laboratório: criação de gerador de código através de linguagem escolhida pelo docente.
 17	| Demonstração do gerador de código em aula reservada para atividades de seminário e apresentações de grupo.
 
+```
 ###Ementa
 Tradução de linguagens de programação. Estudo de Compiladores, sua estrutura e de Interpretadores. Abordagem teórica e prática de análise léxica, análise sintática, análise semântica. Prática em geração e otimização de código.
 

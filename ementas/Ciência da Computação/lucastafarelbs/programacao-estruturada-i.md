@@ -2,6 +2,7 @@
 ##Disciplina: Programação Estruturada I
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e do Plano de Estudo e Aprendizagem. Agendamento das avaliações. Revisão do conceito de Algoritmos. Exemplos e exercícios
 2	| Introdução a Linguagem de programação C. Estrutura de um programa. Abordagem de compilação, linkedição e execução de um programa. Conceito e aplicações de variáveis. Exemplos e exercícios.
 3	| Apresentação de operadores aritméticos, lógicos e relacionais. Atribuição. Criação de expressões aritméticas, lógicas e relacionais. Tabela verdade. Exemplos e exercícios
@@ -23,6 +24,7 @@
 19	| Exercícios de revisão.
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Introdução a Programação Estruturada. Apresentação da Linguagem de Programação C. Abordagem de tipos de dados, expressões, operadores. Abordagem teórica e prática de Estruturas de controle e repetição. Estudo de matrizes unidimensionais (vetores) e bidimensionais (matrizes).
 

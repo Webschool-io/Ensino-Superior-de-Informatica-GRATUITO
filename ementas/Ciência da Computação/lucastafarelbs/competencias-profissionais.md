@@ -2,6 +2,7 @@
 ##Disciplina: Competências Profissionais
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e do Plano de Estudo. Agendamento de trabalhos e avaliações. Introdução a Ética Geral. Conceituação do termo.
 2	| Ética Geral. Distinção entre Ética e Lei. Valores coletivos e individuais.
 3	| A computação como profissão. Conhecimento especializado, autonomia, controle interno, serviços à sociedade.
@@ -23,6 +24,7 @@
 19	| Revisão de conteúdos para a prova substitutiva
 20	| Prova Substitutiva
 
+```
 ###Ementa
 Conceituação da ética geral e relacionada ao uso da Tecnologia da Informação. Abordagem dos aspectos relacionados à conduta do profissional de Tecnologia da Informação. Estudo da segurança da informação, com ênfase para a informação empresarial. Introdução a segurança de redes e criptografia.
 

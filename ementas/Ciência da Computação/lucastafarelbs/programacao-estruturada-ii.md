@@ -2,6 +2,7 @@
 ##Disciplina: Programação Estruturada II
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina. Revisão de aspectos básicos da linguagem C. Depuração e documentação interna de programas.
 2	| Conceituação de modularização. Utilização de Funções. Passagem de parâmetros por valor.
 3	| Utilização de Funções. Passagem de parâmetros por referência. Exemplos e exercícios.
@@ -20,6 +21,7 @@
 16	| Conceito de recursividade. Aplicações. Exemplos de programas recursivos.
 17	| Recursão: exercícios.
 
+```
 ###Ementa
 Abordagem de depuração e documentação de programas em C. Estudo teórico e prático de Funções, tipos de dados estruturados, ponteiros, arquivos e recursividade.
 

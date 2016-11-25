@@ -2,6 +2,7 @@
 ##Disciplina: Inteligência Artificial
 
 ###Semana | Cronograma
+```
 1	| Apresentação da Disciplina e Metodologia de Trabalho. Introdução à Inteligência Artificial.
 2	| Resolução de Problemas: Tipos de Problemas e Representação de Problemas.
 3	| Mecanismos de Busca, Heurística Aceitável e Algoritmo A*.
@@ -20,6 +21,7 @@
 16	| Mineração de Dados e Textos.
 17	| Linguagem Natural: Conceitos e Aplicações.
 
+```
 ###Ementa
 Métodos de resolução de problemas em Inteligência Artificial: busca em profundidade, busca em extensão, busca pelo custo, busca gulosa. Heurísticas Aceitáveis. Representação do conhecimento. Raciocínio Automatizado. Aprendizagem de máquina. Aquisição de conhecimento. Linguagem Natural. Recuperação de Informação.
 

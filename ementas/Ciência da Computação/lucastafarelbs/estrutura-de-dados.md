@@ -2,6 +2,7 @@
 ##Disciplina: Estrutura de Dados
 
 ###Semana | Cronograma
+```
 1	| Apresentação da disciplina e do Plano de Ensino e Aprendizagem. Agendamento das avaliações. Introdução à Estrutura de Dados.
 2	| Breve revisão da Linguagem C. Alocação Estática de Memória. Conceito, aplicações, características, exemplos e exercícios.
 3	| Alocação dinâmica de memória. Conceito, aplicações, características, exemplos e exercícios.
@@ -20,6 +21,7 @@
 16	| Grafos: conceito, definição, tipos, aplicações. Exemplos.
 17	| Grafos: exercícios
 
+```
 ###Ementa
 - Introdução a Estruturas de Dados; Revisão de programação em C. Listas; Pilhas; Filas. Recursividade. Implementação de algoritmos recursivos- Árvores: árvores binárias, árvore de jogos, árvore B. Grafos: representação, fechamento transitivo.
 
