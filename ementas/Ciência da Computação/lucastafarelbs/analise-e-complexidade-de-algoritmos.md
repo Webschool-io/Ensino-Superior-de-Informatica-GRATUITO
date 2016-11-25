@@ -3,7 +3,7 @@
 
 ###Semana | Cronograma
 
-```| Cronograma
+```
 1	| Apresentação da disciplina. Introdução a Análise e Complexidade de Algoritmos.
 2	| Medidas de complexidade, análise assintótica de limites de complexidades.
 3	| Medidas de complexidade, análise assintótica de limites de complexidades. Exemplos de análise de algoritmos iterativos.
