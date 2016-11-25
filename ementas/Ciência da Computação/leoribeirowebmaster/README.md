@@ -1,4 +1,4 @@
-[HOME](https://github.com/lucastafarelbs/Ensino-Superior-de-Informatica-GRATUITO)
+[HOME](https://github.COM/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO)
 # Curso: Ciências da Computação
 Curso: Bacharel em Ciência da Computação
 Faculdade: Universidade São Judas Tadeu

@@ -1,4 +1,4 @@
-[HOME](https://github.com/lucastafarelbs/Ensino-Superior-de-Informatica-GRATUITO) 
+[HOME](https://github.COM/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO) 
 ##Disciplina: Trabalho de Conclusão de Curso III
 
 ###Semana | Cronograma
