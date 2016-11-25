@@ -1,14 +1,9 @@
+[HOME](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO)
 # Curso: Ciências da Computação
-
 Curso: Bacharel em Ciência da Computação
-
 Faculdade: Universidade São Judas Tadeu
-
 Semestres: 8
-
-Cidade: São Paulo
-
-Estado: SP
+Cidade: São Paulo - SP
 
 - Banco de Dados
 - Legislação e Ética em TI
