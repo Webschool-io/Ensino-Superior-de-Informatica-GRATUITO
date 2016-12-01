@@ -1,14 +1,9 @@
+[HOME](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO)
 # Curso: Ciências da Computação
-
 Curso: Bacharel em Ciência da Computação
-
 Faculdade: Universidade São Judas Tadeu
-
 Semestres: 8
-
-Cidade: São Paulo
-
-Estado: SP
+Cidade: São Paulo - SP
 
 - Banco de Dados
 - Legislação e Ética em TI
@@ -46,4 +41,3 @@ Enviado por: @leoribeirowebmaster
 ## Outras ementas
 
 - UFPA: [https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148](https://sigaa.ufpa.br/sigaa/link/public/curso/curriculo/152148)
-- UFPI: [https://sigaa.ufpi.br/sigaa/link/public/curso/curriculo/76516](https://sigaa.ufpi.br/sigaa/link/public/curso/curriculo/76516)
